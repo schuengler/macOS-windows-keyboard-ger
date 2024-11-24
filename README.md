@@ -11,4 +11,5 @@ Copy mac-win-ger.keylayout to /Users/<user name>/Library/Keyboard Layouts/. Chan
 
 ## Recommandations
 
-I switched Command-Key with Control-Key in the system settings.
+- I switched Command-Key with Control-Key in the system settings.
+- Checkout AltTab-Project
